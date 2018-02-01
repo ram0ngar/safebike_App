@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017138176865",
+    "firebase_url": "https://safebike-5fdb3.firebaseio.com",
+    "project_id": "safebike-5fdb3",
+    "storage_bucket": "safebike-5fdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017138176865:android:d88892f50c6f4f8a",
+        "android_client_info": {
+          "package_name": "mx.itesm.safebike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017138176865-r54837tb16j7c9ftmd4eau2fapgicq7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.itesm.safebike",
+            "certificate_hash": "9bd83cfd5a2d00bd7dd00f2e1d90be142f6c5da5"
+          }
+        },
+        {
+          "client_id": "1017138176865-psmbj2jum50h4vosfotq5jcpks6uvc9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_dyDHfM4kC-96jTWhwdhFiYqEYiYJX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017138176865-psmbj2jum50h4vosfotq5jcpks6uvc9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
