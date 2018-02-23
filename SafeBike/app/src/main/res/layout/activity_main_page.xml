@@ -37,4 +37,20 @@
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.484" />
 
+    <Button
+        android:id="@+id/btnPanico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Panico"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="278dp" />
+
+    <Button
+        android:id="@+id/btnPonchado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ponchado"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="231dp" />
+
 </android.support.constraint.ConstraintLayout>
